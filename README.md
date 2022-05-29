@@ -4,7 +4,7 @@ In this repository, a front application is deployed automatically in Vercel.
 
 The continuous deployment flow has also been defined in the vercel-cd.yml file, so that it is deployed in Vercel every time a push is made on master.
 
-The deployed app can be found at XX
+The deployed app can be found at https://lemoncode-module7-cloud-extra-3-ivaann2706.vercel.app/
 
 Steps:
 
